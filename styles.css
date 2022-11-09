@@ -246,7 +246,7 @@ padding-top: 8px;
 
 .project:hover .project__img {
 transform: scale(1.07);
-filter: blur(5px);
+filter: blur(3px);
 }
 
 .project__list {
